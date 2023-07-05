@@ -101,6 +101,18 @@ footer{
       width: 90%;
       margin: 20px auto;
     }
+    
+    .photo1{
+      background-position: bottom center;
+    }
+    
+    .photo2{
+      background-position: bottom center;
+    }
+    
+    .photo3{
+      background-position: bottom center;
+    }
 
   footer{
     position: static;
